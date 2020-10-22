@@ -1,0 +1,7 @@
+{
+  "name": "ticketing-prot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
